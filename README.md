@@ -1,52 +1,43 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/ee/89/e6/ee89e667844e1a33fa4084e56bb1c590.jpg" width="100%" alt="OrbitOmen visual"/>
+<img src="https://i.pinimg.com/736x/b3/28/48/b328485a2251f9a04113cc76c22dec39.jpg" width="100%" alt="An autumn journey beneath golden trees"/>
 
 <br/>
 
-# ORBITOMEN
-### Independent developer · Building things that orbit beyond ordinary.
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=ORBITOMEN&fontSize=56&fontColor=C9A7FF&fontAlignY=55&desc=INDEPENDENT%20DEVELOPER%20%E2%80%A2%20CREATING%20BEYOND%20THE%20ORDINARY&descSize=11&descAlignY=90&descColor=F2B8DC" width="100%" alt="OrbitOmen"/>
 
-**Code is the craft. Curiosity is the fuel.**
+<p><i>Building ideas into software. One orbit at a time.</i></p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-orbit--omen-181717?style=for-the-badge&logo=github)](https://github.com/orbit-omen)
-[![Projects](https://img.shields.io/badge/Projects-Explore-9B5CFF?style=for-the-badge&logo=星)](https://github.com/orbit-omen?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-orbit--omen-171321?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orbit-omen)
+[![Repositories](https://img.shields.io/badge/Explore-Projects-9B6BCE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orbit-omen?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=orbit-omen&style=for-the-badge&color=bb8fce&label=PROFILE+VIEWS)](https://github.com/orbit-omen)
 
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://i.pinimg.com/736x/b3/28/48/b328485a2251f9a04113cc76c22dec39.jpg" width="82%" alt="OrbitOmen atmosphere"/>
-
-</div>
-
-## ◈ The person behind the orbit
+## ✦ About the creator
 
 I'm an independent developer building software, tools, and experiments under **OrbitOmen**.
 
-I like taking ideas that sound a little unreasonable and turning them into things you can actually use — from desktop applications and developer tools to Minecraft utilities and creative software.
+I enjoy turning ambitious ideas into useful things — from desktop applications and developer utilities to Minecraft tools and creative software. I care about performance, thoughtful interfaces, and the little details that make software feel complete.
 
-- Building a growing ecosystem of OrbitOmen projects.
-- Interested in Rust, Python, JavaScript, desktop software, and automation.
-- Drawn to unusual interfaces, performance, and thoughtful details.
-- Usually experimenting with something new.
+> *Curiosity sets the coordinates. Code makes the journey.*
 
-## ◈ Current universe
+## ⟡ The OrbitOmen universe
 
-| Project | What it is |
+| Project | Mission |
 |:--|:--|
-| **Orbit Launcher** | A custom Minecraft launcher experience. |
+| **[Orbit Launcher](https://github.com/orbit-omen)** | A custom Minecraft launcher experience. |
 | **Aetheris** | A Windows screen-recording project. |
-| **OrbitCord** | A Discord-focused client and tooling experiment. |
-| **MineMotion** | A desktop tool for Minecraft animation workflows. |
-| **StuffStock** | A place for Minecraft mods, plugins, and pack resources. |
+| **OrbitCord** | Discord-focused client and tooling experiments. |
+| **MineMotion** | Desktop workflows for Minecraft animation. |
+| **StuffStock** | A home for Minecraft mods, plugins, and pack resources. |
 | **Orbit Vault** | A privacy-focused file vault concept. |
 
-*Projects evolve; check the repositories for their latest state.*
+<sub>Projects are evolving. Visit the repositories for their latest status.</sub>
 
-## ◈ Tech orbit
+## ⌘ Tools in my orbit
 
 <div align="center">
 
@@ -60,31 +51,31 @@ I like taking ideas that sound a little unreasonable and turning them into thing
 
 </div>
 
-## ◈ Activity signal
+## ◌ Signals from GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=orbit-omen&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=C6A3FF&icon_color=FF9EDB&text_color=E9E2F2&ring_color=C6A3FF" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orbit-omen&layout=compact&hide_border=true&bg_color=0D0B14&title_color=C6A3FF&text_color=E9E2F2" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=orbit-omen&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=C6A3FF&icon_color=FF9EDB&text_color=E9E2F2&ring_color=C6A3FF" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orbit-omen&layout=compact&hide_border=true&bg_color=0D0B14&title_color=C6A3FF&text_color=E9E2F2" alt="Most used languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=orbit-omen&hide_border=true&background=0D0B14&ring=C6A3FF&fire=FF9EDB&currStreakLabel=C6A3FF&sideLabels=E9E2F2&dates=9B91A8" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=orbit-omen&hide_border=true&background=0D0B14&ring=C6A3FF&fire=FF9EDB&currStreakLabel=C6A3FF&sideLabels=E9E2F2&dates=9B91A8" alt="Contribution streak"/>
 
 </div>
 
-## ◈ Elsewhere in the multiverse
+---
 
 <div align="center">
 
-[**Explore my repositories ↗**](https://github.com/orbit-omen?tab=repositories)
+### ✧ Beyond the ordinary
+
+[**Explore the repositories →**](https://github.com/orbit-omen?tab=repositories)
+
+[Spider-Man energy, for the plot. ↗](https://tenor.com/en-IN/view/polyester-spiderman-spiderman-edit-saturation-slop-elite-ball-knowledge-tasm-gif-2097807461523431257)
 
 <br/>
 
-<a href="https://tenor.com/en-IN/view/polyester-spiderman-spiderman-edit-saturation-slop-elite-ball-knowledge-tasm-gif-2097807461523431257">A little Spider-Man energy. ↗</a>
-
-<br/><br/>
-
-<sub>✦ Made of late-night ideas, questionable experiments, and too much curiosity. ✦</sub>
+<sub>✦ Made with curiosity, late-night ideas, and a little cosmic chaos. ✦</sub>
 
 </div>
